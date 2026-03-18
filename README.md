@@ -61,6 +61,9 @@ Data Entry & Research Specialist | Excel | Data Cleaning | Virtual Assistant
 Supporting businesses with organized and reliable data.
 
 Connect with me:
+
 LinkedIn → linkedin.com/in/lydia-peter-27568b1b6
+
 Hire me on Fiverr → www.fiverr.com/users/lydia_peter_
+
 All my links → linktr.ee/lydiapeter463
