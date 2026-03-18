@@ -1,4 +1,5 @@
-# Lydia Peter – Data Entry & Research Portfolio
+# Lydia Peter | Data Analyst & Virtual Assistant | Tanzania
+AI-Powered Data Cleaning · Web Research · Lead Generation · Virtual Assistant
 
 Welcome to my portfolio repository.
 
