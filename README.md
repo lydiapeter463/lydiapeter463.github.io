@@ -1,70 +1,25 @@
-# Lydia Peter | Data Analyst & Virtual Assistant | Tanzania
-AI-Powered Data Cleaning · Web Research · Lead Generation · Virtual Assistant
+### Tanzania Tourism Companies Dataset
 
-Welcome to my portfolio repository.
+Collected and organised a dataset of 50 tourism companies across Tanzania.
+The dataset includes company names, locations, services offered, and tour
+package types. This project demonstrates my ability to collect, organise,
+clean, and analyse business data into structured, usable datasets.
 
-I specialize in data entry, online research, and dataset organization using tools like Excel and Google Sheets. My work focuses on transforming scattered information into structured and usable datasets that businesses can rely on.
+**Key Findings:**
+- 50 companies collected across 10 locations in Tanzania
+- Arusha had the highest concentration of companies (52%)
+- Budget & Mid-range was the most common package type (34.7%)
+- Identified missing contact information across multiple records
 
-## Portfolio Website
+**Companies by Location:**
 
-View my portfolio website here:
+![Companies by Location](Companies_by_Location.png)
 
-https://lydiapeter463.github.io
+**Package Type Distribution:**
 
-The website showcases my projects, datasets, and reports.
+![Package Type](Package_Type.png)
 
-## Project: Tourism Companies in Tanzania
+**Tools Used:** Excel, Google Sheets, Online Research
 
-This project involved collecting and organizing information on 50 tourism companies operating in Tanzania.
-
-The objective was to transform scattered business information from websites and tourism directories into a clean and structured dataset for research and market insights.
-
-## Dataset Overview
-
-Total Companies: 50  
-Country: Tanzania
-
-Data fields included:
-
-- Company Name  
-- Location  
-- Business Type  
-- Services  
-- Tour Package Type  
-- Website  
-- Email  
-- Phone Number  
-
-## Key Insights
-
-- Arusha appears as a major tourism business hub.
-- Safari tourism is the most common business type in the dataset.
-- Tour packages are typically categorized as Budget, Mid-range, or Luxury.
-
-## Skills Demonstrated
-
-- Data Entry
-- Data Cleaning
-- Online Research
-- Dataset Structuring
-- Excel / Google Sheets
-
-## Project Files
-
-tourism_dataset.xlsx – Structured tourism company dataset  
-tourism_report.pdf – Project report with insights and visualizations
-
-## About Me
-
-Lydia Peter  
-Data Entry & Research Specialist | Excel | Data Cleaning | Virtual Assistant  
-
-Supporting businesses with organized and reliable data.
-
-Connect with me:
-
-LinkedIn → linkedin.com/in/lydia-peter-27568b1b6
-
-Hire me on Fiverr → www.fiverr.com/users/lydia_peter_
-
-All my links → linktr.ee/lydiapeter463
+[Download Dataset](https://lydiapeter463.github.io/Tourism_Dataset.xlsx)
+[View Report](https://lydiapeter463.github.io/Tanzania_Tourism_Data_Report.pdf)
